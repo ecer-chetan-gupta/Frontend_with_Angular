@@ -1,5 +1,5 @@
 
-let name = "Anant";
+let name = "CHETAN";
 console.log("String:", name, typeof name);
 
 let age = 21;
